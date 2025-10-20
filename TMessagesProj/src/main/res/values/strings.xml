@@ -9820,4 +9820,22 @@
     <string name="DateOfBirthHideYear">Hide Year</string>
     <string name="DateOfBirthAddToProfile">Add to My Profile</string>
     <string name="SuggestedDateOfBirthView">View</string>
+    <string name="UserTracking">User Tracking</string>
+    <string name="TrackedUsers">Tracked Users</string>
+    <string name="AddUserToTrack">Add User to Track</string>
+    <string name="RemoveUserFromTracking">Remove %s from tracking?</string>
+    <string name="UserTrackingInfo">You can track profile changes, photo changes, and online/offline status of selected users. Tap a user to see their tracking history.</string>
+    <string name="NoTrackedUsers">No users are being tracked yet. Add users from the button above.</string>
+    <string name="TrackingHistory">Tracking History</string>
+    <string name="CurrentStatus">Current Status</string>
+    <string name="WentOnline">Went Online</string>
+    <string name="WentOffline">Went Offline</string>
+    <string name="ChangedPhoto">Changed Photo</string>
+    <string name="ChangedProfile">Changed Profile</string>
+    <string name="ChangedStatus">Status Changed</string>
+    <string name="Changed">Changed</string>
+    <string name="ProfilePhotoChanged">Profile photo was changed</string>
+    <string name="ClearHistory">Clear History</string>
+    <string name="TrackingHistoryInfo">History of all tracked changes for this user.</string>
+    <string name="NoTrackingHistory">No changes have been tracked yet for this user.</string>
 </resources>
