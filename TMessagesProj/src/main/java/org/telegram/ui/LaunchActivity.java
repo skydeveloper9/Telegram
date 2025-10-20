@@ -702,6 +702,9 @@ public class LaunchActivity extends BasePermissionsActivity implements INavigati
                     args.putLong("dialog_id", UserConfig.getInstance(currentAccount).getClientUserId());
                     args.putInt("type", MediaActivity.TYPE_STORIES);
                     presentFragment(new MediaActivity(args, null));
+                } else if (id == 18) {
+                    presentFragment(new UserTrackingActivity());
+                    drawerLayoutContainer.closeDrawer(false);
                 }
             }
         });

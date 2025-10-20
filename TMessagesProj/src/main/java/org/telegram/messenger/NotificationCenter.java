@@ -367,6 +367,8 @@ public class NotificationCenter {
     public static final int botForumTopicDidCreate = totalEvents++;
     public static final int botForumDraftUpdate = totalEvents++;
     public static final int botForumDraftDelete = totalEvents++;
+    public static final int userTrackingListChanged = totalEvents++;
+    public static final int userTrackingHistoryChanged = totalEvents++;
 
     public static boolean alreadyLogged;
 
